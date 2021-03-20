@@ -1,6 +1,9 @@
-### Hi there 👋
+- Research group leader: [Documentação, Modelagem e Conservação do Patrimônio](https://github.com/dmcpatrimonio)
+- Partner: [Ábaco Arquitetura](https://github.com/abacoarq)
 
 <!--
+### Hi there 👋
+
 **p3palazzo/p3palazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
